@@ -27,6 +27,8 @@ To use the model download the `RMRR.pt` file to your `C:\DeepStack\MyModels` fol
 
 The list of currently trained for objects in in [RMRR_classes.txt](./RMRR_classes.txt)
 
+[trainTest](https://github.com/avatar42/deepstack/blob/main/trainTest.py) results are in [trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/train/trainTest.results.txt)
+
 For more details on training see [DeepStack training](https://securitycam101.rmrr42.com/2021/12/deepstack-training.html)
 
 For more help setting and or debugging a DeepStack setup see [Quick Blue Iris with DeepStack debug](https://securitycam101.rmrr42.com/2021/10/quick-blue-iris-with-deepstack-debug.html)
