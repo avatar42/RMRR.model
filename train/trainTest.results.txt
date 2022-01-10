@@ -1,34 +1,64 @@
-pig found 7.0 of 7.0 expected times with an average confidence of 0.9278313
-raccoon found 202.0 of 202.0 expected times with an average confidence of 0.9435252169801982
-coyote found 17.0 of 17.0 expected times with an average confidence of 0.9245648558823528
-squirrel found 21.0 of 21.0 expected times with an average confidence of 0.9072601185714284
-bird found 3.0 of 3.0 expected times with an average confidence of 0.92085954
-bird_bluejay found 3.0 of 2.0 expected times with an average confidence of 0.7855561133333332
-bird_cardinal found 3.0 of 3.0 expected times with an average confidence of 0.91113132
-bird_vulture found 2.0 of 2.0 expected times with an average confidence of 0.880692985
-buffalo found 3.0 of 3.0 expected times with an average confidence of 0.90679151
-bunny found 6.0 of 6.0 expected times with an average confidence of 0.9283619316666668
-cat found 11.0 of 11.0 expected times with an average confidence of 0.9316503972727275
-cat_black found 7.0 of 7.0 expected times with an average confidence of 0.9238530799999999
-cat_grey found 3.0 of 3.0 expected times with an average confidence of 0.9069881333333334
-cat_orange found 4.0 of 4.0 expected times with an average confidence of 0.9096829525
-cat_tort found 3.0 of 3.0 expected times with an average confidence of 0.9142257833333334
-cat_calico found 3.0 of 3.0 expected times with an average confidence of 0.91775678
-cow found 2.0 of 2.0 expected times with an average confidence of 0.9124091249999999
-dog_black_lab found 4.0 of 4.0 expected times with an average confidence of 0.9045300125
-dog_pyr found 9.0 of 9.0 expected times with an average confidence of 0.8939224322222223
-person found 2.0 of 2.0 expected times with an average confidence of 0.9169483350000001
-snake found 5.0 of 5.0 expected times with an average confidence of 0.92913134
-spider found 5.0 of 5.0 expected times with an average confidence of 0.921517328
-deer found 44.0 of 44.0 expected times with an average confidence of 0.9413459718181819
-opossum found 4.0 of 4.0 expected times with an average confidence of 0.90327276
-scorpion found 2.0 of 2.0 expected times with an average confidence of 0.863333425
-turtle found 3.0 of 3.0 expected times with an average confidence of 0.9213114533333333
-lizard found 2.0 of 2.0 expected times with an average confidence of 0.891659525
+Of 2 expected ['US-plate', 'kia'] objects, found:1 objects ['US-plate'] in back_plate_day.jpg
+Of 1 expected ['US-plate'] objects, found:0 objects [] in DAH412.20220106_075838717.492.jpg
+Of 4 expected ['US-plate', 'smile', 'amazon', 'prime'] objects, found:2 objects ['US-plate', 'smile'] in DAH616.20211216_153533363.335.jpg
+Of 2 expected ['fedex', 'US-plate'] objects, found:1 objects ['fedex'] in DAH616.20211227_114430227.445.jpg
+Of 2 expected ['smile', 'prime'] objects, found:1 objects ['smile'] in DAH616.20211230_201245266.469.jpg
+Of 1 expected ['coyote'] objects, found:2 objects ['coyote', 'coyote'] in DAH834.20211221_051029703.387.jpg
+Of 1 expected ['fox'] objects, found:0 objects [] in fox_driveway_day.jpg
+pig found 7.0 of 7.0 expected times with an average confidence of 0.9379847842857141
+raccoon found 215.0 of 215.0 expected times with an average confidence of 0.9486264059534874
+coyote found 38.0 of 37.0 expected times with an average confidence of 0.9143259794736842
+squirrel found 21.0 of 21.0 expected times with an average confidence of 0.9274244733333334
+bird_bluejay found 2.0 of 2.0 expected times with an average confidence of 0.8984838150000001
+bird_cardinal found 11.0 of 11.0 expected times with an average confidence of 0.9227222300000001
+bird_vulture found 2.0 of 2.0 expected times with an average confidence of 0.86614325
+buffalo found 3.0 of 3.0 expected times with an average confidence of 0.9022721666666667
+bunny found 6.0 of 6.0 expected times with an average confidence of 0.9183564949999999
+cat_black found 7.0 of 7.0 expected times with an average confidence of 0.9341299357142857
+cat_grey found 30.0 of 30.0 expected times with an average confidence of 0.9496701013333335
+cat_orange found 10.0 of 10.0 expected times with an average confidence of 0.9171093960000001
+cat_tort found 3.0 of 3.0 expected times with an average confidence of 0.9179358333333334
+cat_calico found 3.0 of 3.0 expected times with an average confidence of 0.9478664166666667
+cow found 2.0 of 2.0 expected times with an average confidence of 0.9203582
+dog_black_lab found 21.0 of 21.0 expected times with an average confidence of 0.9416064485714285
+dog_pyr found 31.0 of 31.0 expected times with an average confidence of 0.9288294767741936
+snake found 5.0 of 5.0 expected times with an average confidence of 0.9079473400000001
+spider found 5.0 of 5.0 expected times with an average confidence of 0.92013912
+deer found 45.0 of 45.0 expected times with an average confidence of 0.946872932222222
+opossum found 4.0 of 4.0 expected times with an average confidence of 0.8969493425000001
+scorpion found 2.0 of 2.0 expected times with an average confidence of 0.863222895
+turtle found 3.0 of 3.0 expected times with an average confidence of 0.91609532
+lizard found 2.0 of 2.0 expected times with an average confidence of 0.8873342799999999
+US-plate found 56.0 of 58.0 expected times with an average confidence of 0.8879736385714284
+mercedesbenz found 17.0 of 17.0 expected times with an average confidence of 0.8832917100000001
+amazon found 7.0 of 8.0 expected times with an average confidence of 0.8880781271428573
+prime found 20.0 of 22.0 expected times with an average confidence of 0.8732683309999999
+smile found 34.0 of 34.0 expected times with an average confidence of 0.9094533255882353
+ups found 13.0 of 13.0 expected times with an average confidence of 0.797376053076923
+fedex found 30.0 of 30.0 expected times with an average confidence of 0.9209778690000003
+bird_crow found 1.0 of 1.0 expected times with an average confidence of 0.82983756
+fox found 0.0 of 1.0 expected times with an average confidence of 0
+bird_humming found 1.0 of 1.0 expected times with an average confidence of 0.8101317
+Dave found 30.0 of 30.0 expected times with an average confidence of 0.9473139376666665
+box_nutrisystem found 1.0 of 1.0 expected times with an average confidence of 0.9024166
+Ryder found 4.0 of 4.0 expected times with an average confidence of 0.887461105
+licence-plate found 1.0 of 1.0 expected times with an average confidence of 0.83690196
+kia found 1.0 of 2.0 expected times with an average confidence of 0.86925036
+budget found 2.0 of 2.0 expected times with an average confidence of 0.85156268
+US-mail found 4.0 of 4.0 expected times with an average confidence of 0.8629408850000001
+truck_trash found 7.0 of 7.0 expected times with an average confidence of 0.9355862028571428
+ACDI found 2.0 of 2.0 expected times with an average confidence of 0.8274868
+bird_vireo found 3.0 of 3.0 expected times with an average confidence of 0.9086024300000001
+bird_dove found 2.0 of 2.0 expected times with an average confidence of 0.8421396
+bird_chickadee found 2.0 of 2.0 expected times with an average confidence of 0.91038712
+bird_sparrow found 5.0 of 5.0 expected times with an average confidence of 0.9018185900000001
+bird_titmouse found 2.0 of 2.0 expected times with an average confidence of 0.8535923000000001
+bird_robin found 1.0 of 1.0 expected times with an average confidence of 0.8496754
+moth found 1.0 of 1.0 expected times with an average confidence of 0.8807819
 
-Of 1466 tests
- Ran:1466
+Of 2973 tests
+ Ran:2973
  Skipped:0
- Passed:1465
- Warnings:1
- Failed:0
+ Passed:2959
+ Warnings:14
+ Failed:7

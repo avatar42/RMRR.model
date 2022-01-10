@@ -1,0 +1,57 @@
+Mapping:0:pig wanted, to 0:pig
+Mapping:1:raccoon wanted, to 1:raccoon
+Mapping:2:coyote wanted, to 2:coyote
+Mapping:3:squirrel wanted, to 3:squirrel
+Unmapping:4:bird
+Mapping:5:bird_bluejay wanted, to 4:bird_bluejay
+Mapping:6:bird_cardinal wanted, to 5:bird_cardinal
+Mapping:7:bird_vulture wanted, to 6:bird_vulture
+Mapping:8:buffalo wanted, to 7:buffalo
+Mapping:9:bunny wanted, to 8:bunny
+Unmapping:10:cat
+Mapping:11:cat_black wanted, to 9:cat_black
+Mapping:12:cat_grey wanted, to 10:cat_grey
+Mapping:13:cat_orange wanted, to 11:cat_orange
+Mapping:14:cat_tort wanted, to 12:cat_tort
+Mapping:15:cat_calico wanted, to 13:cat_calico
+Mapping:16:cow wanted, to 14:cow
+Mapping:17:dog_black_lab wanted, to 15:dog_black_lab
+Mapping:18:dog_pyr wanted, to 16:dog_pyr
+Unmapping:19:person
+Mapping:20:snake wanted, to 17:snake
+Mapping:21:spider wanted, to 18:spider
+Mapping:22:deer wanted, to 19:deer
+Mapping:23:opossum wanted, to 20:opossum
+Mapping:24:scorpion wanted, to 21:scorpion
+Mapping:25:turtle wanted, to 22:turtle
+Mapping:26:lizard wanted, to 23:lizard
+Unmapping:27:dog
+Mapping:28:US-plate wanted, to 24:US-plate
+Unmapping:29:car
+Mapping:30:mercedesbenz wanted, to 25:mercedesbenz
+Mapping:31:amazon wanted, to 26:amazon
+Mapping:32:prime wanted, to 27:prime
+Mapping:33:smile wanted, to 28:smile
+Mapping:34:ups wanted, to 29:ups
+Mapping:35:fedex wanted, to 30:fedex
+Mapping:36:bird_crow wanted, to 31:bird_crow
+Mapping:37:fox wanted, to 32:fox
+Mapping:38:bird_humming wanted, to 33:bird_humming
+Mapping:39:Dave wanted, to 34:Dave
+Mapping:40:box_nutrisystem wanted, to 35:box_nutrisystem
+Mapping:41:Ryder wanted, to 36:Ryder
+Unmapping:42:truck
+Mapping:43:licence-plate wanted, to 37:licence-plate
+Mapping:44:kia wanted, to 38:kia
+Mapping:45:budget wanted, to 39:budget
+Mapping:46:US-mail wanted, to 40:US-mail
+Mapping:47:truck_trash wanted, to 41:truck_trash
+Mapping:48:ACDI wanted, to 42:ACDI
+Mapping:49:bird_vireo wanted, to 43:bird_vireo
+Mapping:50:bird_dove wanted, to 44:bird_dove
+Mapping:51:bird_chickadee wanted, to 45:bird_chickadee
+Mapping:52:bird_sparrow wanted, to 46:bird_sparrow
+Mapping:53:bird_titmouse wanted, to 47:bird_titmouse
+Mapping:54:bird_robin wanted, to 48:bird_robin
+Mapping:55:moth wanted, to 49:moth
+Unmapping:56:cat_white
