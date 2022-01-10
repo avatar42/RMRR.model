@@ -34,3 +34,19 @@ For more details on training see [DeepStack training](https://securitycam101.rmr
 For more help setting and or debugging a DeepStack setup see [Quick Blue Iris with DeepStack debug](https://securitycam101.rmrr42.com/2021/10/quick-blue-iris-with-deepstack-debug.html)
 
 See [runTrain.bat](runTrain.bat) for an example of running training locally with my [DeepStack Utils repo](https://github.com/avatar42/deepstack) style setup.
+
+# Training results
+![confusion_matrix.png](confusion_matrix.png)
+![labels.jpg](labels.jpg)
+![labels_correlogram.jpg](labels_correlogram.jpg)
+![precision_recall_curve.png](precision_recall_curve.png)
+![results.png](results.png)
+![test_batch0_labels.jpg](test_batch0_labels.jpg)
+![test_batch0_pred.jpg](test_batch0_pred.jpg)
+![test_batch1_labels.jpg](test_batch1_labels.jpg)
+![test_batch1_pred.jpg](test_batch1_pred.jpg)
+![test_batch2_labels.jpg](test_batch2_labels.jpg)
+![test_batch2_pred.jpg](test_batch2_pred.jpg)
+![train_batch0.jpg](train_batch0.jpg)
+![train_batch1.jpg](train_batch1.jpg)
+![train_batch2.jpg](train_batch2.jpg)
