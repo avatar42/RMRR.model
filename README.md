@@ -3,7 +3,7 @@ Model and test data for the RMRR (Round Mountain Rescue Ranch) [DeepStack](https
 
 See [Releases Info](https://github.com/avatar42/RMRR.model/wiki/Releases) for more detail about the model's creation and evolution.
 
-As of v0.4 the train and test folders with the image and map files have been moved to Google Drive. Download them from [here](https://drive.google.com/drive/folders/1m4vCcf5AIXP0w4bhEyFpVw2M5fXu7Zq1?usp=sharing)
+As of v0.4 the train and test folders with the image and map files have been moved to Kaggle. Download them as zip files from [here](https://www.kaggle.com/avatar42/rmrr-model)
 
 **How to use:**
 
@@ -29,28 +29,28 @@ To use the model download the `RMRR.pt` file to your `C:\DeepStack\MyModels` fol
 }
 ```
 
-The list of currently trained for objects in in [RMRR_classes.txt](./RMRR_classes.txt)
+The list of currently trained for objects in in [RMRR_classes.txt](https://github.com/avatar42/RMRR.model/blob/main/RMRR_classes.txt)
 
-[trainTest](https://github.com/avatar42/deepstack/blob/main/trainTest.py) results are in [train/trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/train/trainTest.results.txt) and [test/trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/test/trainTest.results.txt)
+[trainTest](https://github.com/avatar42/deepstack/blob/main/trainTest.py) results are in [train.trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/train.trainTest.results.txt) and [test.trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/test.trainTest.results.txt)
 
 For more details on training see [DeepStack training](https://securitycam101.rmrr42.com/2021/12/deepstack-training.html)
 
 For more help setting and or debugging a DeepStack setup see [Quick Blue Iris with DeepStack debug](https://securitycam101.rmrr42.com/2021/10/quick-blue-iris-with-deepstack-debug.html)
 
-See [runTrain.bat](runTrain.bat) for an example of running training locally with my [DeepStack Utils repo](https://github.com/avatar42/deepstack) style setup.
+See [runTrain.bat](https://github.com/avatar42/RMRR.model/blob/main/runTrain.bat) for an example of running training locally with my [DeepStack Utils repo](https://github.com/avatar42/deepstack) style setup.
 
 # Training results
-![confusion_matrix.png](train-runs/confusion_matrix.png)
-![labels.jpg](train-runs/labels.jpg)
-![labels_correlogram.jpg](train-runs/labels_correlogram.jpg)
-![precision_recall_curve.png](train-runs/precision_recall_curve.png)
-![results.png](train-runs/results.png)
-![test_batch0_labels.jpg](train-runs/test_batch0_labels.jpg)
-![test_batch0_pred.jpg](train-runs/test_batch0_pred.jpg)
-![test_batch1_labels.jpg](train-runs/test_batch1_labels.jpg)
-![test_batch1_pred.jpg](train-runs/test_batch1_pred.jpg)
-![test_batch2_labels.jpg](train-runs/test_batch2_labels.jpg)
-![test_batch2_pred.jpg](train-runs/test_batch2_pred.jpg)
-![train_batch0.jpg](train-runs/train_batch0.jpg)
-![train_batch1.jpg](train-runs/train_batch1.jpg)
-![train_batch2.jpg](train-runs/train_batch2.jpg)
+![confusion_matrix.png](https://github.com/avatar42/RMRR.model/blob/main/train-runs/confusion_matrix.png)
+![labels.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/labels.jpg)
+![labels_correlogram.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/labels_correlogram.jpg)
+![precision_recall_curve.png](https://github.com/avatar42/RMRR.model/blob/main/train-runs/precision_recall_curve.png)
+![results.png](https://github.com/avatar42/RMRR.model/blob/main/train-runs/results.png)
+![test_batch0_labels.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch0_labels.jpg)
+![test_batch0_pred.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch0_pred.jpg)
+![test_batch1_labels.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch1_labels.jpg)
+![test_batch1_pred.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch1_pred.jpg)
+![test_batch2_labels.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch2_labels.jpg)
+![test_batch2_pred.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/test_batch2_pred.jpg)
+![train_batch0.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/train_batch0.jpg)
+![train_batch1.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/train_batch1.jpg)
+![train_batch2.jpg](https://github.com/avatar42/RMRR.model/blob/main/train-runs/train_batch2.jpg)

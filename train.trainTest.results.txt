@@ -1,0 +1,93 @@
++Of 2 expected ['cat_calico', 'cat_tort'] found objects, found:3 objects ['cat_tort', 'cat_calico', 'cat_tort'] in calico_tortous.jpg
+-Of 2 expected ['car', 'us-plate'] found objects, found:1 objects ['car'] in DAH412.20220114_151836355.659.jpg
+-Of 2 expected ['truck_pickup', 'us-plate'] found objects, found:1 objects ['truck_pickup'] in DAH412.20220114_164753403.591.jpg
+-Of 3 expected ['smile', 'amazon', 'prime'] found objects, found:2 objects ['prime', 'smile'] in DAH616.20211216_153533363.335.jpg
+-Of 4 expected ['bird_crow', 'bird_crow', 'gate', 'squirrel'] found objects, found:3 objects ['bird_crow', 'gate', 'squirrel'] in DAH834.20220127_113815471.852.jpg
+-Of 2 expected ['van', 'ram'] found objects, found:1 objects ['van'] in FC124.20211128_123428557.358.jpg
+-Of 5 expected ['smile', 'box_closed', 'prime', 'van', 'gate'] found objects, found:4 objects ['smile', 'gate', 'box_closed', 'van'] in HV468.20220129_152153.783332.17-0.jpg
+-Of 5 expected ['smile', 'box_closed', 'gate', 'van', 'prime'] found objects, found:4 objects ['smile', 'gate', 'box_closed', 'van'] in HV468.20220129_152153.783433.4115-1.42535.42399.jpg
++Of 2 expected ['dog_black_lab', 'person'] found objects, found:3 objects ['dog_black_lab', 'dog_black_lab', 'person'] in PTZ508.20220124_160000.5550324.3-1.jpg
++Of 3 expected ['us-plate', 'cart', 'person'] found objects, found:4 objects ['us-plate', 'cart', 'us-plate', 'person'] in PTZ508.20220127_114922.11893318.17-0.jpg
++Of 2 expected ['dog_black_lab', 'person'] found objects, found:3 objects ['dog_black_lab', 'dog_black_lab', 'person'] in Reo599.20220126_170000.1210020.3-1.jpg
+For images in:train/ with min_confidence set to 50.00%
+pig found 7.0 of 7.0 expected objects with an average confidence of 88.65% min:84.92% max:92.88% adjusted avg:88.65%
+raccoon found 243.0 of 243.0 expected objects with an average confidence of 93.04% min:81.33% max:96.46% adjusted avg:93.04%
+coyote found 40.0 of 40.0 expected objects with an average confidence of 88.86% min:65.11% max:94.14% adjusted avg:88.86%
+squirrel found 24.0 of 24.0 expected objects with an average confidence of 89.36% min:79.76% max:93.19% adjusted avg:89.36%
+bird_bluejay found 2.0 of 2.0 expected objects with an average confidence of 87.33% min:86.46% max:88.20% adjusted avg:87.33%
+bird_cardinal found 11.0 of 11.0 expected objects with an average confidence of 88.40% min:84.41% max:92.44% adjusted avg:88.40%
+bird_vulture found 2.0 of 2.0 expected objects with an average confidence of 82.29% min:80.70% max:83.88% adjusted avg:82.29%
+buffalo found 4.0 of 4.0 expected objects with an average confidence of 91.66% min:89.68% max:93.35% adjusted avg:91.66%
+bunny found 6.0 of 6.0 expected objects with an average confidence of 87.54% min:86.21% max:88.94% adjusted avg:87.54%
+cat_black found 7.0 of 7.0 expected objects with an average confidence of 88.88% min:85.50% max:92.17% adjusted avg:88.88%
+cat_grey found 55.0 of 55.0 expected objects with an average confidence of 92.70% min:88.94% max:95.34% adjusted avg:92.70%
+cat_orange found 40.0 of 40.0 expected objects with an average confidence of 91.10% min:86.84% max:95.34% adjusted avg:91.10%
+cat_tort found 20.0 of 19.0 expected objects with an average confidence of 90.04% min:78.32% max:94.19% adjusted avg:94.78%
+cat_calico found 3.0 of 3.0 expected objects with an average confidence of 90.21% min:88.94% max:91.00% adjusted avg:90.21%
+cow found 2.0 of 2.0 expected objects with an average confidence of 88.87% min:86.75% max:90.98% adjusted avg:88.87%
+dog_black_lab found 130.0 of 128.0 expected objects with an average confidence of 91.63% min:51.10% max:96.45% adjusted avg:93.07%
+dog_pyr found 43.0 of 43.0 expected objects with an average confidence of 91.92% min:86.31% max:95.21% adjusted avg:91.92%
+snake found 5.0 of 5.0 expected objects with an average confidence of 86.57% min:76.67% max:90.72% adjusted avg:86.57%
+spider found 9.0 of 9.0 expected objects with an average confidence of 89.95% min:85.28% max:93.98% adjusted avg:89.95%
+deer found 46.0 of 46.0 expected objects with an average confidence of 92.30% min:83.90% max:95.06% adjusted avg:92.30%
+opossum found 33.0 of 33.0 expected objects with an average confidence of 89.22% min:79.76% max:93.34% adjusted avg:89.22%
+scorpion found 2.0 of 2.0 expected objects with an average confidence of 85.78% min:83.54% max:88.02% adjusted avg:85.78%
+turtle found 3.0 of 3.0 expected objects with an average confidence of 90.12% min:89.88% max:90.28% adjusted avg:90.12%
+lizard found 2.0 of 2.0 expected objects with an average confidence of 84.48% min:80.68% max:88.28% adjusted avg:84.48%
+us-plate found 1109.0 of 1110.0 expected objects with an average confidence of 96.94% min:58.81% max:98.52% adjusted avg:96.86%
+mercedesbenz found 21.0 of 21.0 expected objects with an average confidence of 86.29% min:77.54% max:91.57% adjusted avg:86.29%
+amazon found 9.0 of 10.0 expected objects with an average confidence of 84.07% min:74.55% max:89.41% adjusted avg:75.67%
+prime found 32.0 of 34.0 expected objects with an average confidence of 84.85% min:53.40% max:95.86% adjusted avg:79.86%
+smile found 57.0 of 57.0 expected objects with an average confidence of 87.41% min:68.15% max:95.34% adjusted avg:87.41%
+ups found 15.0 of 15.0 expected objects with an average confidence of 81.08% min:64.40% max:90.21% adjusted avg:81.08%
+fedex found 32.0 of 32.0 expected objects with an average confidence of 88.61% min:74.60% max:94.62% adjusted avg:88.61%
+bird_crow found 5.0 of 6.0 expected objects with an average confidence of 75.49% min:53.28% max:84.08% adjusted avg:62.91%
+fox found 4.0 of 4.0 expected objects with an average confidence of 84.22% min:78.64% max:90.20% adjusted avg:84.22%
+bird_humming found 1.0 of 1.0 expected objects with an average confidence of 83.28% min:83.28% max:83.28% adjusted avg:83.28%
+dave found 31.0 of 31.0 expected objects with an average confidence of 94.14% min:88.62% max:95.48% adjusted avg:94.14%
+box_nutrisystem found 1.0 of 1.0 expected objects with an average confidence of 91.63% min:91.63% max:91.63% adjusted avg:91.63%
+Ryder found 10.0 of 10.0 expected objects with an average confidence of 87.35% min:82.65% max:91.54% adjusted avg:87.35%
+licence-plate found 1.0 of 1.0 expected objects with an average confidence of 81.14% min:81.14% max:81.14% adjusted avg:81.14%
+kia found 5.0 of 5.0 expected objects with an average confidence of 72.29% min:54.32% max:81.39% adjusted avg:72.29%
+budget found 2.0 of 2.0 expected objects with an average confidence of 73.68% min:69.92% max:77.44% adjusted avg:73.68%
+us-mail found 4.0 of 4.0 expected objects with an average confidence of 79.83% min:75.92% max:87.08% adjusted avg:79.83%
+truck_trash found 29.0 of 29.0 expected objects with an average confidence of 93.01% min:87.25% max:95.59% adjusted avg:93.01%
+acdi found 5.0 of 5.0 expected objects with an average confidence of 75.07% min:63.55% max:84.73% adjusted avg:75.07%
+bird_vireo found 3.0 of 3.0 expected objects with an average confidence of 79.90% min:75.83% max:85.41% adjusted avg:79.90%
+bird_dove found 2.0 of 2.0 expected objects with an average confidence of 83.07% min:82.33% max:83.81% adjusted avg:83.07%
+bird_chickadee found 8.0 of 8.0 expected objects with an average confidence of 91.12% min:87.01% max:93.31% adjusted avg:91.12%
+bird_sparrow found 5.0 of 5.0 expected objects with an average confidence of 86.91% min:81.77% max:89.16% adjusted avg:86.91%
+bird_titmouse found 2.0 of 2.0 expected objects with an average confidence of 87.81% min:85.53% max:90.10% adjusted avg:87.81%
+bird_robin found 1.0 of 1.0 expected objects with an average confidence of 90.14% min:90.14% max:90.14% adjusted avg:90.14%
+moth found 1.0 of 1.0 expected objects with an average confidence of 87.43% min:87.43% max:87.43% adjusted avg:87.43%
+ryder found 1.0 of 1.0 expected objects with an average confidence of 67.79% min:67.79% max:67.79% adjusted avg:67.79%
+van found 64.0 of 64.0 expected objects with an average confidence of 94.12% min:90.17% max:96.53% adjusted avg:94.12%
+suv found 58.0 of 58.0 expected objects with an average confidence of 94.49% min:91.23% max:96.32% adjusted avg:94.49%
+truck_pickup found 102.0 of 102.0 expected objects with an average confidence of 94.15% min:87.21% max:96.21% adjusted avg:94.15%
+trailer found 11.0 of 11.0 expected objects with an average confidence of 87.79% min:83.66% max:90.65% adjusted avg:87.79%
+dog_shepherd found 7.0 of 7.0 expected objects with an average confidence of 85.80% min:83.73% max:88.01% adjusted avg:85.80%
+car found 119.0 of 119.0 expected objects with an average confidence of 94.55% min:88.59% max:97.08% adjusted avg:94.55%
+truck found 55.0 of 55.0 expected objects with an average confidence of 93.82% min:90.43% max:96.38% adjusted avg:93.82%
+person found 196.0 of 196.0 expected objects with an average confidence of 93.48% min:82.77% max:97.04% adjusted avg:93.48%
+bicycle found 5.0 of 5.0 expected objects with an average confidence of 81.73% min:75.03% max:86.23% adjusted avg:81.73%
+ford found 2.0 of 2.0 expected objects with an average confidence of 76.06% min:73.22% max:78.90% adjusted avg:76.06%
+motorcycle found 3.0 of 3.0 expected objects with an average confidence of 84.76% min:79.03% max:90.96% adjusted avg:84.76%
+bus found 3.0 of 3.0 expected objects with an average confidence of 87.55% min:83.51% max:89.72% adjusted avg:87.55%
+truck_mixer found 1.0 of 1.0 expected objects with an average confidence of 83.63% min:83.63% max:83.63% adjusted avg:83.63%
+camper found 1.0 of 1.0 expected objects with an average confidence of 79.85% min:79.85% max:79.85% adjusted avg:79.85%
+box_closed found 22.0 of 22.0 expected objects with an average confidence of 93.03% min:91.37% max:94.18% adjusted avg:93.03%
+cart found 9.0 of 9.0 expected objects with an average confidence of 89.02% min:85.58% max:92.13% adjusted avg:89.02%
+gate found 93.0 of 93.0 expected objects with an average confidence of 91.13% min:78.33% max:94.97% adjusted avg:91.13%
+ram found 7.0 of 8.0 expected objects with an average confidence of 81.78% min:68.77% max:86.58% adjusted avg:71.55%
+aqua found 9.0 of 9.0 expected objects with an average confidence of 83.46% min:76.95% max:87.58% adjusted avg:83.46%
+spectrum found 2.0 of 2.0 expected objects with an average confidence of 75.98% min:69.71% max:82.26% adjusted avg:75.98%
+lexus found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+chevy found 1.0 of 1.0 expected objects with an average confidence of 72.14% min:72.14% max:72.14% adjusted avg:72.14%
+cat_white found 1.0 of 1.0 expected objects with an average confidence of 82.85% min:82.85% max:82.85% adjusted avg:82.85%
+
+Of 11618 tests
+ Ran:11618
+ Skipped:0
+ Passed:11611
+ Warnings:4
+ Failed:7
