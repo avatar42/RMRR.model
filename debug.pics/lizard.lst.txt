@@ -1,0 +1,3 @@
+lizard.jpg 0.8068201
+lizard2.jpg 0.88281596
+lizard2.jpg 0.88281596

@@ -1,0 +1,132 @@
+
+Of 2 expected ['cat_calico', 'cat_tort'] found objects, found:3 objects ['cat_tort', 'cat_calico', 'cat_tort'] in calico_tortous.jpg
+
+FAILED:Expected object us-plate not found in test image:DAH412.20220114_151836355.659.jpg
+
+FAILED:Expected object us-plate not found in test image:DAH412.20220114_164753403.591.jpg
+
+FAILED:Expected object amazon not found in test image:DAH616.20211216_153533363.335.jpg
+
+FAILED:Expected object bird_crow not found in test image:DAH834.20220127_113815471.852.jpg
+
+FAILED:Expected object ram not found in test image:FC124.20211128_123428557.358.jpg
+
+FAILED:Expected object prime not found in test image:HV468.20220129_152153.783332.17-0.jpg
+
+FAILED:Expected object prime not found in test image:HV468.20220129_152153.783433.4115-1.42535.42399.jpg
+
+Of 2 expected ['dog_black_lab', 'person'] found objects, found:3 objects ['dog_black_lab', 'dog_black_lab', 'person'] in PTZ508.20220124_160000.5550324.3-1.jpg
+
+Of 3 expected ['us-plate', 'cart', 'person'] found objects, found:4 objects ['us-plate', 'cart', 'us-plate', 'person'] in PTZ508.20220127_114922.11893318.17-0.jpg
+
+Of 2 expected ['dog_black_lab', 'person'] found objects, found:3 objects ['dog_black_lab', 'dog_black_lab', 'person'] in Reo599.20220126_170000.1210020.3-1.jpg
+Using folders:
+trainPath:train/
+testPath:test/
+validPath:valid/
+labeled:labeled/
+unlabeled:unlabeled/
+newPicPath:new/
+debugPath:debug.pics/
+
+imgPath:test.imgs/
+labelImgData:../labelImg/data
+
+Using options:
+dsUrl:http://localhost:82/
+mode:Medium
+trainedName:RMRR
+maxProgressCnt:256
+debugPrintOn:N
+saveDebugPics:Y
+failOnError:N
+min_confidence:0.5
+includedExts:['jpg', 'webp', 'bmp', 'png', 'gif']
+tests2Run:['detection', 'custom/openlogo', 'custom/licence-plate', 'custom/dark', 'custom/actionnetv2']
+
+server up in 0:00:00.012995
+...........................................................................................................................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+[]
+...............................................................................................................
+[]
+............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+['prime']
+.............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+['gate', 'squirrel']
+..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[]
+..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+['gate', 'van']
+..........
+[]
+....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+............................................................................................................................................................................................................................
+...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................Traceback (most recent call last):
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\connection.py", line 96, in create_connection
+    raise err
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\connection.py", line 86, in create_connection
+    sock.connect(sa)
+OSError: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002243B0A4C70>: Failed to establish a new connection: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\urllib3\util\retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=82): Max retries exceeded with url: /v1/vision/custom/RMRR (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002243B0A4C70>: Failed to establish a new connection: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\DeepStackWS\deepstack\trainTest.py", line 258, in <module>
+    TrainTests().run()
+  File "C:\DeepStackWS\deepstack\trainTest.py", line 222, in run
+    imgCnt += self.trainTests(config.trainPath)
+  File "C:\DeepStackWS\deepstack\trainTest.py", line 77, in trainTests
+    response = doPost("custom/" + config.trainedName, files={"image":readBinaryFile(testPath + f)}, data={"min_confidence":str(config.min_confidence)})
+  File "C:\DeepStackWS\deepstack\common.py", line 188, in doPost
+    response = requests.post(config.dsUrl + "v1/vision/" + testType, data=data, **kwargs)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Valued Customer\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\requests\adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=82): Max retries exceeded with url: /v1/vision/custom/RMRR (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002243B0A4C70>: Failed to establish a new connection: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted'))

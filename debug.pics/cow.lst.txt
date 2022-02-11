@@ -1,0 +1,3 @@
+IPcam124.cow_frt_night.jpg 0.8675335
+IPcam124.cow_side_night.jpg 0.9098222
+IPcam124.cow_frt_night.jpg 0.8675335

@@ -1,0 +1,7 @@
+earth_snake.jpg 0.7666848
+gard_snake.jpg 0.8766882
+rattlesnake_coiled.jpg 0.90240115
+rattlesnake_tail.jpg 0.9072018
+ribbon_snake.jpg 0.8754365
+earth_snake.jpg 0.7666848
+rattlesnake_coiled.jpg 0.90240115

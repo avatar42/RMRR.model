@@ -1,0 +1,3 @@
+AM476.vltr_face_day.jpg 0.8069628
+AM476.vltr_landing_back_day.jpg 0.8388483
+AM476.vltr_landing_back_day.jpg 0.8388483

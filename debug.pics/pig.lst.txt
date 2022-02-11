@@ -1,0 +1,9 @@
+AM476.boar_frt_night.jpg 0.8934908
+AM476_20201104_230443519_1.jpg 0.9065107
+boars_night.jpg 0.90363556
+boars_night.jpg 0.92882055
+DAH412.coons_boar_night.jpg 0.85254335
+DAH412_20201104_230416147_1.jpg 0.849169
+DAH695.boar_side_day.jpg 0.87120694
+AM476.boar_frt_night.jpg 0.8934908
+DAH412_20201104_230416147_1.jpg 0.849169

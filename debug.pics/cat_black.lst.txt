@@ -1,0 +1,9 @@
+4cats_barn.jpg 0.8706192
+4cats_barn.jpg 0.87289613
+black_cat.jpg 0.91350263
+black_cat2.jpg 0.8920253
+black_cat_on_mat.jpg 0.9217351
+kennel.jpg 0.8550109
+kittens_walkway.jpg 0.89553136
+4cats_barn.jpg 0.8706192
+4cats_barn.jpg 0.87289613

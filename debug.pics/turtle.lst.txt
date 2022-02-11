@@ -1,0 +1,4 @@
+turtle.jpg 0.89884114
+turtle2.jpg 0.90205103
+turtle_foot.jpg 0.9027619
+turtle.jpg 0.89884114

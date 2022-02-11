@@ -1,0 +1,7 @@
+bunny_night.jpg 0.8621344
+bunny_night_sm.jpg 0.86668575
+bun_back_close_day.jpg 0.8894207
+bun_side_close_day.jpg 0.8789149
+bun_side_sm_day.jpg 0.8892171
+DAH616.bunny_driveway_night.jpg 0.86581695
+bunny_night_sm.jpg 0.86668575
